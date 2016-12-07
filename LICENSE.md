@@ -13,4 +13,26 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 The.dlls listed in this document are made available to you under the terms of a commercial agreement with kCura LLC.  Subject to the terms of that license, You may only use them programmatically to the extent that they are referenced by the other files contained in this package.  You may not access, use, or redistribute them independently of this package.  You may not reverse engineer, decompile, create derivative works, translate, or disassemble these .dlls, and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
 
-
+Relativity.API.dll
+kCura.Relativity.Client.dll
+Relativity.Kepler.dll
+Relativity.Services.DataContracts.dll
+Relativity.Services.Interfaces.dll
+Relativity.Services.ServiceProxy.dll
+kCura.Data.dll
+kCura.ImageValidator.dll
+kCura.Relativity.OI.FileID.dll
+kCura.Relativity.DataReaderClient.dll
+kCura.Relativity.ImportAPI.dll
+kCura.Utility.dll
+kCura.Windows.Forms.dll
+kCura.WindEDDS.dll
+kCura.WindEDDs.ImportExtension.dll
+Relativity.dll
+kCura.EventHandler.dll
+kCura.Config.dll
+kCura.Crypto.dll
+kCura.RowDataGateway.dll
+Relativity.CustomPages.dll
+kCura.Agent.dll
+kCura.Config.dll
